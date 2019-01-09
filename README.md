@@ -1,4 +1,4 @@
 # FORM
 Windows Form
 
-Projet de découverte, simple, permettant d'interagir avec plusieur fenêtre windows
+Projet de découverte, simple, permettant d'interagir avec plusieurs fenêtre windows
